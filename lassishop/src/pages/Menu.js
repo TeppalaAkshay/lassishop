@@ -1,6 +1,6 @@
 import React from "react";
 
-export const menu = ( ) => {
+export const Menu = ( ) => {
     return (
         <div>menu</div>
     )

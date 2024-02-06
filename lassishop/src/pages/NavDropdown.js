@@ -1,6 +1,6 @@
 import React from "react";
 
-const navdropdown = () => {
+const NavDropdown = () => {
 return(
         <div className="dropdown">
             <select>
@@ -12,4 +12,4 @@ return(
 
         </div>
     )};
-    export default navdropdown;
+    export default NavDropdown;

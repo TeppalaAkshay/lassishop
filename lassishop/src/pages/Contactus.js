@@ -1,6 +1,6 @@
 import React from "react";
 
-export const contactus = ( ) => {
+export const Contactus = ( ) => {
     return(
         <div>contactus</div>
     )
